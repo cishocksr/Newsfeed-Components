@@ -85,6 +85,24 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'We did it!',
+    date: 'September 10, 2019',
+    firstParagraph : `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Turpis egestas sed tempus urna et pharetra pharetra. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ut placerat orci nulla pellentesque dignissim enim. Varius quam quisque id diam vel quam. Faucibus et molestie ac feugiat sed lectus vestibulum. Scelerisque felis imperdiet proin fermentum leo vel orci porta non. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Sapien eget mi proin sed libero. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Non blandit massa enim nec dui nunc mattis enim ut. Amet massa vitae tortor condimentum.`,
+
+    secondParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Turpis egestas sed tempus urna et pharetra pharetra. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ut placerat orci nulla pellentesque dignissim enim. Varius quam quisque id diam vel quam. Faucibus et molestie ac feugiat sed lectus vestibulum. Scelerisque felis imperdiet proin fermentum leo vel orci porta non. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Sapien eget mi proin sed libero. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Non blandit massa enim nec dui nunc mattis enim ut. Amet massa vitae tortor condimentum.`,
+
+    thirdParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Turpis egestas sed tempus urna et pharetra pharetra. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ut placerat orci nulla pellentesque dignissim enim. Varius quam quisque id diam vel quam. Faucibus et molestie ac feugiat sed lectus vestibulum. Scelerisque felis imperdiet proin fermentum leo vel orci porta non. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Sapien eget mi proin sed libero. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Non blandit massa enim nec dui nunc mattis enim ut. Amet massa vitae tortor condimentum.`
+  },
+  {
+    title: 'Never Forget',
+    date: 'September 11, 2019',
+    firstParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Turpis egestas sed tempus urna et pharetra pharetra. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ut placerat orci nulla pellentesque dignissim enim. Varius quam quisque id diam vel quam. Faucibus et molestie ac feugiat sed lectus vestibulum. Scelerisque felis imperdiet proin fermentum leo vel orci porta non. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Sapien eget mi proin sed libero. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Non blandit massa enim nec dui nunc mattis enim ut. Amet massa vitae tortor condimentum.`,
+
+    secondParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Turpis egestas sed tempus urna et pharetra pharetra. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ut placerat orci nulla pellentesque dignissim enim. Varius quam quisque id diam vel quam. Faucibus et molestie ac feugiat sed lectus vestibulum. Scelerisque felis imperdiet proin fermentum leo vel orci porta non. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Sapien eget mi proin sed libero. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Non blandit massa enim nec dui nunc mattis enim ut. Amet massa vitae tortor condimentum.`,
+
+    thirdParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Turpis egestas sed tempus urna et pharetra pharetra. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ut placerat orci nulla pellentesque dignissim enim. Varius quam quisque id diam vel quam. Faucibus et molestie ac feugiat sed lectus vestibulum. Scelerisque felis imperdiet proin fermentum leo vel orci porta non. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Sapien eget mi proin sed libero. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Non blandit massa enim nec dui nunc mattis enim ut. Amet massa vitae tortor condimentum.`
   }
 ];
 
@@ -110,25 +128,30 @@ function createArticle (title, date, firstParagraph, secondParagraph, thirdParag
   article.appendChild(articleParagraph3);
   article.appendChild(expandBtn);
 
+  //SET CLASS NAMES
+  article.classList.add('article');
+  articleDate.classList.add('date');
+  expandBtn.classList.add('expandButton')
   //SET CONTENT
 
-  articleTitle.textContent(title);
-  articleDate.textContent(date);
-  articleParagraph1.textContent(firstParagraph);
-  articleParagraph2.textContent(secondParagraph);
-  articleParagraph3.textContent(thirdParagraph);
+  articleTitle.textContent =  title;
+  articleDate.textContent = date;
+  articleParagraph1.textContent = firstParagraph;
+  articleParagraph2.textContent = secondParagraph;
+  articleParagraph3.textContent = thirdParagraph;
+  expandBtn.textContent = 'Expand';
 
   //ADD EVENT LISTENERS
 
-  article.addEventListener('click', (event) => {
-    expandBtn.classList.toggle('article-open');
+  expandBtn.addEventListener('click', (event) => {
+    article.classList.toggle('article-open');
   })
   return article;
 
 }
 
 data.forEach(function (element) {
-  article.appendChild(element);
-  // articleSection.appendChild(createArticle)
+  articleSection.appendChild(createArticle(element.title, element.date, element.firstParagraph, element.secondParagraph, element.thirdParagraph));
+  
   
 })
